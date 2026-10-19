@@ -1,12 +1,12 @@
 
 
-[![Yin Ye](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He was awarded a Doctor of Science (DSc) degree from Wuhan University of Technology in 2025. Yin Ye, male, born in May 1995, Doctoral Candidate, Lecturer. He is currently a full-time faculty member at Jiangxi University of Water Resources and Electric Engineering. His research mainly focuses on Computer Vision, Deep Learning, Evolutionary Algorithm.
+He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
 
 #### Contact
 
-Email: yeyin@juwp.edu.cn
+Email: user[at]fas.harvard.edu
 
 #### Education
 M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
