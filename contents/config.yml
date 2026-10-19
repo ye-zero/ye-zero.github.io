@@ -1,22 +1,22 @@
-title: User Name's Homepage
-page-top-title: User Name
+title: Yin Ye's Homepage
+page-top-title: Yin Ye
 top-section-bg-text: Computer Science
 backgrounds:
   - static/assets/background/background_0.jpeg
   - static/assets/background/background_1.jpeg
 background-interval-ms: 7000
 background-overlay: 0.52
-copyright-text: '&copy; Sen Li 2023-2026. All Rights Reserved.'
+copyright-text: '&copy; 2023-2026. All Rights Reserved.'
 github-link:
-  text: Github
-  href: https://github.com/senli1073
+  text: Orcid
+  href: https://orcid.org/0000-0002-7653-3669
 license-link:
-  text: License
-  href: https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE
+  text: Researchgate
+  href: https://www.researchgate.net/profile/Yin-Ye-6
 sections:
   - id: home
     nav: HOME
-    title: User Name&ensp;|&ensp;姓名
+    title: Yin Ye&ensp;|&ensp;叶尹
     href: '#page-top' # Default to '#<id>' if not specified
   - id: publications
     nav: PUBLICATIONS

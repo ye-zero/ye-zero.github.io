@@ -10,8 +10,8 @@ Yin Ye is a specially appointed associate professor at the School of Information
 Email: yeyin@juwp.edu.cn
 
 #### Education
-202009-202506, Doctor's Degree in Computer Science and Technology, Wuhan University of Technology
-201709-202006, Master's Degree in Computer Technology, Fuzhou University
+202009-202506, Doctor's Degree in Computer Science and Technology, Wuhan University of Technology\
+201709-202006, Master's Degree in Computer Technology, Fuzhou University\
 201309-201706, Bachelor's degree in Software Engineering, Jiangxi University of Science and Technology
 
 #### Research Interests
